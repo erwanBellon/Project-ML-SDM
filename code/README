@@ -1,0 +1,4 @@
+This folder contains the code to run the project:
+  - CNN_model_v3.ipynb: species distribution model with CNN + ANN architecture.
+  - model_habitat_amount_3000_v0.ipynb: species distribution model with ANN architecture, where land cover image analysis is replaced by a variable inferring the proportion of forest in the image.
+  - XAI.ipynb: loading the CNN_model_v3 best model, plot the feature map of the most activated filters to determine landscape suitability.
